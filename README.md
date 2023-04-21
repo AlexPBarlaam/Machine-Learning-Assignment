@@ -1,0 +1,1 @@
+This assignment was completed in the third year of my degree and assessed the implementation of machine learning algorithms. They needed to be implemented without ml libarires such as sklearn, but using numpy matrix operations instead in task 1 & 2. 
